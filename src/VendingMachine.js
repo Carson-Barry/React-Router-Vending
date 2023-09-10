@@ -1,5 +1,4 @@
 import React from "react";
-import { link } from "react-router-dom";
 import machinePicture from "./vending-machine.jpg"; //Image AI generated using https://www.fotor.com/
 import "./VendingMachine.css";
 import VendingMachineSelect from "./VendingMachineSelect"
